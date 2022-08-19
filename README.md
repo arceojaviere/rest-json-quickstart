@@ -1,1 +1,1 @@
-# rest-json-quickstart
+Quarkus guide: https://quarkus.io/guides/rest-json
